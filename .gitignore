@@ -1,0 +1,11 @@
+# Python environments and caches
+.venv/
+.venv*/
+__pycache__/
+*.py[cod]
+
+# Downloaded datasets and extracted crops
+data/
+
+# Generated models, plots, and evaluation artifacts
+outputs/
